@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login with Valid Username but Invalid Password</description>
+   <name>TC04-Login Unsuccessful</name>
+   <tag>Login</tag>
+   <comment></comment>
+   <testCaseGuid>e145ff61-af98-4985-bd1a-cbf9063c6cda</testCaseGuid>
+</TestCaseEntity>
