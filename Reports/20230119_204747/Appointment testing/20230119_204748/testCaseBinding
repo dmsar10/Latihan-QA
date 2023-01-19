@@ -1,0 +1,5 @@
+{"testCaseName":"Test Cases/TS02-Appointment/TC01-Make An Appointment","testCaseId":"Test Cases/TS02-Appointment/TC01-Make An Appointment","iterationVariableName":""}
+{"testCaseName":"Test Cases/TS02-Appointment/TC02-Make An Appointment more than 1","testCaseId":"Test Cases/TS02-Appointment/TC02-Make An Appointment more than 1","iterationVariableName":""}
+{"testCaseName":"Test Cases/TS02-Appointment/TC03-Make An Appointment without a date","testCaseId":"Test Cases/TS02-Appointment/TC03-Make An Appointment without a date","iterationVariableName":""}
+{"testCaseName":"Test Cases/TS02-Appointment/TC04-Make An Appointment with Healthcare Program None","testCaseId":"Test Cases/TS02-Appointment/TC04-Make An Appointment with Healthcare Program None","iterationVariableName":""}
+{"testCaseName":"Test Cases/TS02-Appointment/TC05-Make An Appointment without Comment","testCaseId":"Test Cases/TS02-Appointment/TC05-Make An Appointment without Comment","iterationVariableName":""}

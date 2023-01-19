@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Making An Appointment without Comment</description>
+   <name>TC05-Make An Appointment without Comment</name>
+   <tag>Appointment</tag>
+   <comment></comment>
+   <testCaseGuid>67996cbd-1da5-4ddc-95f5-5a9e19fbcd19</testCaseGuid>
+</TestCaseEntity>
