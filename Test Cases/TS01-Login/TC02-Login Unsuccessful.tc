@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login with a blank username and blank password</description>
+   <name>TC02-Login Unsuccessful</name>
+   <tag>Login</tag>
+   <comment></comment>
+   <testCaseGuid>9a11a0e4-47ac-4eb0-a3e4-bdb7c1951ca8</testCaseGuid>
+</TestCaseEntity>
